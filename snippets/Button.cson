@@ -1,0 +1,10 @@
+".text.html":
+  "ZURB Foundation 5 Button":
+    prefix: "zfbut"
+    body:"""
+    ${3:<!-- Size Classes: [tiny small large] -->
+    <!-- Radius Classes: [radius round] -->
+    <!-- Color Classes: [secondary success alert] -->
+    <!-- Disabled Class: disabled -->}
+    <a href="#" class="button ${2:class}">${1:Title_Button}</a>
+    """

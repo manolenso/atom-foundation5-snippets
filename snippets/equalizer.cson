@@ -1,0 +1,13 @@
+".text.html":
+  "ZURB Foundation 5 Equalizer":
+    prefix: "zfequ"
+    body:"""
+    <div class="row" data-equalizer>
+      <div class="large-6 columns panel" data-equalizer-watch>
+      <!-- content -->
+      </div>
+      <div class="large-6 columns panel" data-equalizer-watch>
+      <!-- content -->
+      </div>
+    </div>
+    """

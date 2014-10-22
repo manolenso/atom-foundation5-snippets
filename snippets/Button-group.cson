@@ -1,0 +1,13 @@
+".text.html":
+  "ZURB Foundation 5 Button-group":
+    prefix: "zfbutgro"
+    body:"""
+    <!-- Button Group Optional Classes: [radius round] -->
+    <ul class="button-group">
+      <!-- Button Color Classes: [secondary alert success] -->
+      <!-- Button Size Classes: [tiny small large] -->
+      <li><a href="#" class="button ">${1:Title_Button-1}</a></li>
+      <li><a href="#" class="button ">${2:Title_Button-2}</a></li>
+      <li><a href="#" class="button ">${3:Title_Button-3}</a></li>
+    </ul>
+    """

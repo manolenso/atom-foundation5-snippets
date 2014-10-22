@@ -1,0 +1,8 @@
+".text.html":
+  "ZURB Foundation 5 Flex Video":
+    prefix: "zffle"
+    body:"""
+    <div class="flex-video">
+      <iframe width="${1:420}" height="${2:315}" src="${3:link_to_vid}" frameborder="0" allowfullscreen></iframe>
+    </div>
+    """

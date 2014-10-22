@@ -1,0 +1,6 @@
+".text.html":
+  "ZURB Foundation 5 Tooltips":
+    prefix: "zftoo"
+    body:"""
+    <span data-tooltip aria-haspopup="true" class="has-tip" title="Tooltips-text">extended information</span>
+    """

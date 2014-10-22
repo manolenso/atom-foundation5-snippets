@@ -1,0 +1,37 @@
+".text.html":
+  "ZURB Foundation 5 Accordion":
+    prefix: "zfacc5"
+    body:"""
+    <dl class="accordion" data-accordion>
+      <dd>
+        <a href="#panel1">${1:Title_Accordion-1}</a>
+        <div id="panel1" class="content active">
+          ${6:Content_Panel-1}
+        </div>
+      </dd>
+      <dd>
+        <a href="#panel2">${2:Title_Accordion-2}</a>
+        <div id="panel2" class="content">
+          ${7:Content_Panel-2}
+        </div>
+      </dd>
+      <dd>
+        <a href="#panel3">${3:Title_Accordion-3}</a>
+        <div id="panel3" class="content">
+          ${8:Content_Panel-3}
+        </div>
+      </dd>
+      <dd>
+        <a href="#panel4">${4:Title_Accordion-4}</a>
+        <div id="panel4" class="content">
+          ${9:Content_Panel-4}
+        </div>
+      </dd>
+      <dd>
+        <a href="#panel5">${5:Title_Accordion-5}</a>
+        <div id="panel5" class="content">
+          ${10:Content_Panel-5}
+        </div>
+      </dd>
+    </dl>$11
+    """

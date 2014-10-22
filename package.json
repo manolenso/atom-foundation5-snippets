@@ -1,0 +1,14 @@
+{
+  "name": "foundation5-snippets",
+  "main": "./lib/foundation5-snippets",
+  "version": "0.0.0",
+  "description": "Atom snippets for Foundation 5",
+  "license": "MIT",
+  "private": true,
+  "repository": "https://github.com/manolenso/atom-foundation5-snippets",
+  "engines": {
+    "atom": ">0.61.0"
+  },
+  "dependencies": {
+  }
+}

@@ -1,0 +1,12 @@
+".text.html":
+  "ZURB Foundation 5 Button Bar":
+    prefix: "zfbutbar"
+    body:"""
+    <div class="button-bar">
+      <ul class="button-group">
+        <li><a href="#" class="button">${1:Title_Button-1}</a></li>
+        <li><a href="#" class="button">${2:Title_Button-2}</a></li>
+        <li><a href="#" class="button">${3:Title_Button-3}</a></li>
+      </ul>
+    </div>
+    """
