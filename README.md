@@ -2,16 +2,15 @@
 
 ## [Foundation 5](http://foundation.zurb.com/) snippets for [Atom](https://atom.io/)
 
-### Getting Started
+#### Getting Started
 Install the module with: `apm install foundation5-snippets`
 
 #### Documentation: [Zurb Foundation 5](http://foundation.zurb.com/docs/)
 
 #### Available Components
-<dl>
-  <dt><h3>Remember Tip's!</h3></dt>
+##`Remember Tip's!`
   <dd>all component trigger is basically
-  composed from
+  composed</dd> from
   zf= zurb foundation + the firts three letters from component</dd>
 
   <dt>EX: Dropdown Buttons =</dt>
