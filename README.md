@@ -9,7 +9,7 @@ Install the module with: `apm install foundation5-snippets`
 
 #### Available Components
 <dl>
-  <dt><h3>`Remember Tip's!`</dt>
+  <dt><h3>Remember Tip's!</h3></dt>
   <dd>all component trigger is basically
   composed from
   zf= zurb foundation + the firts three letters from component</dd>
