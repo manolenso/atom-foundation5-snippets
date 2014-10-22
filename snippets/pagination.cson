@@ -1,6 +1,6 @@
 ".text.html":
   "ZURB Foundation 5 Pagination":
-    prefix: "zfpagination"
+    prefix: "zfpag"
     body:"""
     <ul class="pagination">
       <li class="arrow unavailable"><a href="">&laquo;</a></li>

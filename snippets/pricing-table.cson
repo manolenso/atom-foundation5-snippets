@@ -1,6 +1,6 @@
 ".text.html":
   "ZURB Foundation 5 Pricing Table":
-    prefix: "zfpricingtable"
+    prefix: "zfpritab"
     body:"""
     <ul class="pricing-table">
       <li class="title">Standard</li>

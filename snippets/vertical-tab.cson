@@ -1,6 +1,6 @@
 ".text.html":
   "ZURB Foundation 5 Vertical Tab":
-    prefix: "zfverticaltab"
+    prefix: "zfvertab"
     body:"""
     <dl class="tabs vertical" data-tab>
       <dd class="active"><a href="#panel1a">Tab 1</a></dd>

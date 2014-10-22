@@ -21,13 +21,16 @@ Install the module with: `apm install foundation5-snippets`
 
 Structure         | Trigger          | Javascript
 :---------------: | :---------------:|:---------------:
-Full Grid         | zfful + tab      |
+Full Grid         | zffulgri + tab   |
 Half Grid         | zfhalgri +tab    |
+Quarter Grid      | zfquagri +tab    |
+Third Grid        | zfthigri +tab    |
 
 Navigation        | Trigger          | Javascript
 :---------------: | :---------------:|:---------------:
-Offcanvas         | zfoffcan + tab   | X
+Offcanvas         | zfoff + tab      | X
 Top Bar           | zftopbar + tab   | X
+Vertical Bar      | zfvertab + tab   | X
 Icon Bar          | zficobar + tab   |
 Side Nav          | zfsidnav + tab   |
 Sub Nav           | zfsubnav + tab   |

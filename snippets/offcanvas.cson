@@ -1,6 +1,6 @@
 ".text.html":
   "ZURB Foundation 5 off Canvas":
-    prefix: "zfoffcanvas"
+    prefix: "zfoff"
     body:"""
     <div class="off-canvas-wrap">
       <div class="inner-wrap">

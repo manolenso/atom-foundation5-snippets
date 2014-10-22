@@ -1,6 +1,6 @@
 ".text.html":
   "ZURB Foundation 5 Panel":
-    prefix: "zfpanel"
+    prefix: "zfpan"
     body:"""
     <!-- Optional Classes: [callout radius] -->
     <div class="panel">

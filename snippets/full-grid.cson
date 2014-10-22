@@ -1,6 +1,6 @@
 ".text.html":
   "ZURB Foundation 5 Full Grid":
-    prefix: "zfful"
+    prefix: "zffulgri"
     body:"""
     <div class="row">
       <div class="small-12 medium-12 large-12 columns"></div>
