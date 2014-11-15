@@ -1,0 +1,8 @@
+".text.html":
+  "ZURB Foundation 5 Row":
+    prefix: "zfrow"
+    body:"""
+    <div class="row">
+      $1
+    </div>
+    """

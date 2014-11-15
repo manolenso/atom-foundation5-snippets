@@ -1,0 +1,1132 @@
+".text.html":
+  "fi-address-book":
+    "prefix": "fi-address-book",
+    "body": "<i class=\"fi-address-book\">$1</i>"
+  ,
+  "fi-alert":
+    "prefix": "fi-alert",
+    "body": "<i class=\"fi-alert\">$1</i>"
+  ,
+  "fi-align-center":
+    "prefix": "fi-align-center",
+    "body": "<i class=\"fi-align-center\">$1</i>"
+  ,
+  "fi-align-justify":
+    "prefix": "fi-align-justify",
+    "body": "<i class=\"fi-align-justify\">$1</i>"
+  ,
+  "fi-align-left":
+    "prefix": "fi-align-left",
+    "body": "<i class=\"fi-align-left\">$1</i>"
+  ,
+  "fi-align-right":
+    "prefix": "fi-align-right",
+    "body": "<i class=\"fi-align-right\">$1</i>"
+  ,
+  "fi-anchor":
+    "prefix": "fi-anchor",
+    "body": "<i class=\"fi-anchor\">$1</i>"
+  ,
+  "fi-annotate":
+    "prefix": "fi-annotate",
+    "body": "<i class=\"fi-annotate\">$1</i>"
+  ,
+  "fi-archive":
+    "prefix": "fi-archive",
+    "body": "<i class=\"fi-archive\">$1</i>"
+  ,
+  "fi-arrow-down":
+    "prefix": "fi-arrow-down",
+    "body": "<i class=\"fi-arrow-down\">$1</i>"
+  ,
+  "fi-arrow-left":
+    "prefix": "fi-arrow-left",
+    "body": "<i class=\"fi-arrow-left\">$1</i>"
+  ,
+  "fi-arrow-right":
+    "prefix": "fi-arrow-right",
+    "body": "<i class=\"fi-arrow-right\">$1</i>"
+  ,
+  "fi-arrow-up":
+    "prefix": "fi-arrow-up",
+    "body": "<i class=\"fi-arrow-up\">$1</i>"
+  ,
+  "fi-arrows-compress":
+    "prefix": "fi-arrows-compress",
+    "body": "<i class=\"fi-arrows-compress\">$1</i>"
+  ,
+  "fi-arrows-expand":
+    "prefix": "fi-arrows-expand",
+    "body": "<i class=\"fi-arrows-expand\">$1</i>"
+  ,
+  "fi-arrows-in":
+    "prefix": "fi-arrows-in",
+    "body": "<i class=\"fi-arrows-in\">$1</i>"
+  ,
+  "fi-arrows-out":
+    "prefix": "fi-arrows-out",
+    "body": "<i class=\"fi-arrows-out\">$1</i>"
+  ,
+  "fi-asl":
+    "prefix": "fi-asl",
+    "body": "<i class=\"fi-asl\">$1</i>"
+  ,
+  "fi-asterisk":
+    "prefix": "fi-asterisk",
+    "body": "<i class=\"fi-asterisk\">$1</i>"
+  ,
+  "fi-at-sign":
+    "prefix": "fi-at-sign",
+    "body": "<i class=\"fi-at-sign\">$1</i>"
+  ,
+  "fi-background-color":
+    "prefix": "fi-background-color",
+    "body": "<i class=\"fi-background-color\">$1</i>"
+  ,
+  "fi-battery-empty":
+    "prefix": "fi-battery-empty",
+    "body": "<i class=\"fi-battery-empty\">$1</i>"
+  ,
+  "fi-battery-full":
+    "prefix": "fi-battery-full",
+    "body": "<i class=\"fi-battery-full\">$1</i>"
+  ,
+  "fi-battery-half":
+    "prefix": "fi-battery-half",
+    "body": "<i class=\"fi-battery-half\">$1</i>"
+  ,
+  "fi-bitcoin-circle":
+    "prefix": "fi-bitcoin-circle",
+    "body": "<i class=\"fi-bitcoin-circle\">$1</i>"
+  ,
+  "fi-bitcoin":
+    "prefix": "fi-bitcoin",
+    "body": "<i class=\"fi-bitcoin\">$1</i>"
+  ,
+  "fi-blind":
+    "prefix": "fi-blind",
+    "body": "<i class=\"fi-blind\">$1</i>"
+  ,
+  "fi-bluetooth":
+    "prefix": "fi-bluetooth",
+    "body": "<i class=\"fi-bluetooth\">$1</i>"
+  ,
+  "fi-bold":
+    "prefix": "fi-bold",
+    "body": "<i class=\"fi-bold\">$1</i>"
+  ,
+  "fi-book-bookmark":
+    "prefix": "fi-book-bookmark",
+    "body": "<i class=\"fi-book-bookmark\">$1</i>"
+  ,
+  "fi-book":
+    "prefix": "fi-book",
+    "body": "<i class=\"fi-book\">$1</i>"
+  ,
+  "fi-bookmark":
+    "prefix": "fi-bookmark",
+    "body": "<i class=\"fi-bookmark\">$1</i>"
+  ,
+  "fi-braille":
+    "prefix": "fi-braille",
+    "body": "<i class=\"fi-braille\">$1</i>"
+  ,
+  "fi-burst-new":
+    "prefix": "fi-burst-new",
+    "body": "<i class=\"fi-burst-new\">$1</i>"
+  ,
+  "fi-burst-sale":
+    "prefix": "fi-burst-sale",
+    "body": "<i class=\"fi-burst-sale\">$1</i>"
+  ,
+  "fi-burst":
+    "prefix": "fi-burst",
+    "body": "<i class=\"fi-burst\">$1</i>"
+  ,
+  "fi-calendar":
+    "prefix": "fi-calendar",
+    "body": "<i class=\"fi-calendar\">$1</i>"
+  ,
+  "fi-camera":
+    "prefix": "fi-camera",
+    "body": "<i class=\"fi-camera\">$1</i>"
+  ,
+  "fi-check":
+    "prefix": "fi-check",
+    "body": "<i class=\"fi-check\">$1</i>"
+  ,
+  "fi-checkbox":
+    "prefix": "fi-checkbox",
+    "body": "<i class=\"fi-checkbox\">$1</i>"
+  ,
+  "fi-clipboard-notes":
+    "prefix": "fi-clipboard-notes",
+    "body": "<i class=\"fi-clipboard-notes\">$1</i>"
+  ,
+  "fi-clipboard-pencil":
+    "prefix": "fi-clipboard-pencil",
+    "body": "<i class=\"fi-clipboard-pencil\">$1</i>"
+  ,
+  "fi-clipboard":
+    "prefix": "fi-clipboard",
+    "body": "<i class=\"fi-clipboard\">$1</i>"
+  ,
+  "fi-clock":
+    "prefix": "fi-clock",
+    "body": "<i class=\"fi-clock\">$1</i>"
+  ,
+  "fi-closed-caption":
+    "prefix": "fi-closed-caption",
+    "body": "<i class=\"fi-closed-caption\">$1</i>"
+  ,
+  "fi-cloud":
+    "prefix": "fi-cloud",
+    "body": "<i class=\"fi-cloud\">$1</i>"
+  ,
+  "fi-comment-minus":
+    "prefix": "fi-comment-minus",
+    "body": "<i class=\"fi-comment-minus\">$1</i>"
+  ,
+  "fi-comment-quotes":
+    "prefix": "fi-comment-quotes",
+    "body": "<i class=\"fi-comment-quotes\">$1</i>"
+  ,
+  "fi-comment-video":
+    "prefix": "fi-comment-video",
+    "body": "<i class=\"fi-comment-video\">$1</i>"
+  ,
+  "fi-comment":
+    "prefix": "fi-comment",
+    "body": "<i class=\"fi-comment\">$1</i>"
+  ,
+  "fi-comments":
+    "prefix": "fi-comments",
+    "body": "<i class=\"fi-comments\">$1</i>"
+  ,
+  "fi-compass":
+    "prefix": "fi-compass",
+    "body": "<i class=\"fi-compass\">$1</i>"
+  ,
+  "fi-contrast":
+    "prefix": "fi-contrast",
+    "body": "<i class=\"fi-contrast\">$1</i>"
+  ,
+  "fi-credit-card":
+    "prefix": "fi-credit-card",
+    "body": "<i class=\"fi-credit-card\">$1</i>"
+  ,
+  "fi-crop":
+    "prefix": "fi-crop",
+    "body": "<i class=\"fi-crop\">$1</i>"
+  ,
+  "fi-crown":
+    "prefix": "fi-crown",
+    "body": "<i class=\"fi-crown\">$1</i>"
+  ,
+  "fi-css3":
+    "prefix": "fi-css3",
+    "body": "<i class=\"fi-css3\">$1</i>"
+  ,
+  "fi-database":
+    "prefix": "fi-database",
+    "body": "<i class=\"fi-database\">$1</i>"
+  ,
+  "fi-die-five":
+    "prefix": "fi-die-five",
+    "body": "<i class=\"fi-die-five\">$1</i>"
+  ,
+  "fi-die-four":
+    "prefix": "fi-die-four",
+    "body": "<i class=\"fi-die-four\">$1</i>"
+  ,
+  "fi-die-one":
+    "prefix": "fi-die-one",
+    "body": "<i class=\"fi-die-one\">$1</i>"
+  ,
+  "fi-die-six":
+    "prefix": "fi-die-six",
+    "body": "<i class=\"fi-die-six\">$1</i>"
+  ,
+  "fi-die-three":
+    "prefix": "fi-die-three",
+    "body": "<i class=\"fi-die-three\">$1</i>"
+  ,
+  "fi-die-two":
+    "prefix": "fi-die-two",
+    "body": "<i class=\"fi-die-two\">$1</i>"
+  ,
+  "fi-dislike":
+    "prefix": "fi-dislike",
+    "body": "<i class=\"fi-dislike\">$1</i>"
+  ,
+  "fi-dollar-bill":
+    "prefix": "fi-dollar-bill",
+    "body": "<i class=\"fi-dollar-bill\">$1</i>"
+  ,
+  "fi-dollar":
+    "prefix": "fi-dollar",
+    "body": "<i class=\"fi-dollar\">$1</i>"
+  ,
+  "fi-download":
+    "prefix": "fi-download",
+    "body": "<i class=\"fi-download\">$1</i>"
+  ,
+  "fi-eject":
+    "prefix": "fi-eject",
+    "body": "<i class=\"fi-eject\">$1</i>"
+  ,
+  "fi-elevator":
+    "prefix": "fi-elevator",
+    "body": "<i class=\"fi-elevator\">$1</i>"
+  ,
+  "fi-euro":
+    "prefix": "fi-euro",
+    "body": "<i class=\"fi-euro\">$1</i>"
+  ,
+  "fi-eye":
+    "prefix": "fi-eye",
+    "body": "<i class=\"fi-eye\">$1</i>"
+  ,
+  "fi-fast-forward":
+    "prefix": "fi-fast-forward",
+    "body": "<i class=\"fi-fast-forward\">$1</i>"
+  ,
+  "fi-female-symbol":
+    "prefix": "fi-female-symbol",
+    "body": "<i class=\"fi-female-symbol\">$1</i>"
+  ,
+  "fi-female":
+    "prefix": "fi-female",
+    "body": "<i class=\"fi-female\">$1</i>"
+  ,
+  "fi-filter":
+    "prefix": "fi-filter",
+    "body": "<i class=\"fi-filter\">$1</i>"
+  ,
+  "fi-first-aid":
+    "prefix": "fi-first-aid",
+    "body": "<i class=\"fi-first-aid\">$1</i>"
+  ,
+  "fi-flag":
+    "prefix": "fi-flag",
+    "body": "<i class=\"fi-flag\">$1</i>"
+  ,
+  "fi-folder-add":
+    "prefix": "fi-folder-add",
+    "body": "<i class=\"fi-folder-add\">$1</i>"
+  ,
+  "fi-folder-lock":
+    "prefix": "fi-folder-lock",
+    "body": "<i class=\"fi-folder-lock\">$1</i>"
+  ,
+  "fi-folder":
+    "prefix": "fi-folder",
+    "body": "<i class=\"fi-folder\">$1</i>"
+  ,
+  "fi-foot":
+    "prefix": "fi-foot",
+    "body": "<i class=\"fi-foot\">$1</i>"
+  ,
+  "fi-foundation":
+    "prefix": "fi-foundation",
+    "body": "<i class=\"fi-foundation\">$1</i>"
+  ,
+  "fi-graph-bar":
+    "prefix": "fi-graph-bar",
+    "body": "<i class=\"fi-graph-bar\">$1</i>"
+  ,
+  "fi-graph-horizontal":
+    "prefix": "fi-graph-horizontal",
+    "body": "<i class=\"fi-graph-horizontal\">$1</i>"
+  ,
+  "fi-graph-pie":
+    "prefix": "fi-graph-pie",
+    "body": "<i class=\"fi-graph-pie\">$1</i>"
+  ,
+  "fi-graph-trend":
+    "prefix": "fi-graph-trend",
+    "body": "<i class=\"fi-graph-trend\">$1</i>"
+  ,
+  "fi-guide-dog":
+    "prefix": "fi-guide-dog",
+    "body": "<i class=\"fi-guide-dog\">$1</i>"
+  ,
+  "fi-hearing-aid":
+    "prefix": "fi-hearing-aid",
+    "body": "<i class=\"fi-hearing-aid\">$1</i>"
+  ,
+  "fi-heart":
+    "prefix": "fi-heart",
+    "body": "<i class=\"fi-heart\">$1</i>"
+  ,
+  "fi-home":
+    "prefix": "fi-home",
+    "body": "<i class=\"fi-home\">$1</i>"
+  ,
+  "fi-html5":
+    "prefix": "fi-html5",
+    "body": "<i class=\"fi-html5\">$1</i>"
+  ,
+  "fi-indent-less":
+    "prefix": "fi-indent-less",
+    "body": "<i class=\"fi-indent-less\">$1</i>"
+  ,
+  "fi-indent-more":
+    "prefix": "fi-indent-more",
+    "body": "<i class=\"fi-indent-more\">$1</i>"
+  ,
+  "fi-info":
+    "prefix": "fi-info",
+    "body": "<i class=\"fi-info\">$1</i>"
+  ,
+  "fi-italic":
+    "prefix": "fi-italic",
+    "body": "<i class=\"fi-italic\">$1</i>"
+  ,
+  "fi-key":
+    "prefix": "fi-key",
+    "body": "<i class=\"fi-key\">$1</i>"
+  ,
+  "fi-laptop":
+    "prefix": "fi-laptop",
+    "body": "<i class=\"fi-laptop\">$1</i>"
+  ,
+  "fi-layout":
+    "prefix": "fi-layout",
+    "body": "<i class=\"fi-layout\">$1</i>"
+  ,
+  "fi-lightbulb":
+    "prefix": "fi-lightbulb",
+    "body": "<i class=\"fi-lightbulb\">$1</i>"
+  ,
+  "fi-like":
+    "prefix": "fi-like",
+    "body": "<i class=\"fi-like\">$1</i>"
+  ,
+  "fi-link":
+    "prefix": "fi-link",
+    "body": "<i class=\"fi-link\">$1</i>"
+  ,
+  "fi-list-bullet":
+    "prefix": "fi-list-bullet",
+    "body": "<i class=\"fi-list-bullet\">$1</i>"
+  ,
+  "fi-list-number":
+    "prefix": "fi-list-number",
+    "body": "<i class=\"fi-list-number\">$1</i>"
+  ,
+  "fi-list-thumbnails":
+    "prefix": "fi-list-thumbnails",
+    "body": "<i class=\"fi-list-thumbnails\">$1</i>"
+  ,
+  "fi-list":
+    "prefix": "fi-list",
+    "body": "<i class=\"fi-list\">$1</i>"
+  ,
+  "fi-lock":
+    "prefix": "fi-lock",
+    "body": "<i class=\"fi-lock\">$1</i>"
+  ,
+  "fi-loop":
+    "prefix": "fi-loop",
+    "body": "<i class=\"fi-loop\">$1</i>"
+  ,
+  "fi-magnifying-glass":
+    "prefix": "fi-magnifying-glass",
+    "body": "<i class=\"fi-magnifying-glass\">$1</i>"
+  ,
+  "fi-mail":
+    "prefix": "fi-mail",
+    "body": "<i class=\"fi-mail\">$1</i>"
+  ,
+  "fi-male-female":
+    "prefix": "fi-male-female",
+    "body": "<i class=\"fi-male-female\">$1</i>"
+  ,
+  "fi-male-symbol":
+    "prefix": "fi-male-symbol",
+    "body": "<i class=\"fi-male-symbol\">$1</i>"
+  ,
+  "fi-male":
+    "prefix": "fi-male",
+    "body": "<i class=\"fi-male\">$1</i>"
+  ,
+  "fi-map":
+    "prefix": "fi-map",
+    "body": "<i class=\"fi-map\">$1</i>"
+  ,
+  "fi-marker":
+    "prefix": "fi-marker",
+    "body": "<i class=\"fi-marker\">$1</i>"
+  ,
+  "fi-megaphone":
+    "prefix": "fi-megaphone",
+    "body": "<i class=\"fi-megaphone\">$1</i>"
+  ,
+  "fi-microphone":
+    "prefix": "fi-microphone",
+    "body": "<i class=\"fi-microphone\">$1</i>"
+  ,
+  "fi-minus-circle":
+    "prefix": "fi-minus-circle",
+    "body": "<i class=\"fi-minus-circle\">$1</i>"
+  ,
+  "fi-minus":
+    "prefix": "fi-minus",
+    "body": "<i class=\"fi-minus\">$1</i>"
+  ,
+  "fi-mobile-signal":
+    "prefix": "fi-mobile-signal",
+    "body": "<i class=\"fi-mobile-signal\">$1</i>"
+  ,
+  "fi-mobile":
+    "prefix": "fi-mobile",
+    "body": "<i class=\"fi-mobile\">$1</i>"
+  ,
+  "fi-monitor":
+    "prefix": "fi-monitor",
+    "body": "<i class=\"fi-monitor\">$1</i>"
+  ,
+  "fi-mountains":
+    "prefix": "fi-mountains",
+    "body": "<i class=\"fi-mountains\">$1</i>"
+  ,
+  "fi-music":
+    "prefix": "fi-music",
+    "body": "<i class=\"fi-music\">$1</i>"
+  ,
+  "fi-next":
+    "prefix": "fi-next",
+    "body": "<i class=\"fi-next\">$1</i>"
+  ,
+  "fi-no-dogs":
+    "prefix": "fi-no-dogs",
+    "body": "<i class=\"fi-no-dogs\">$1</i>"
+  ,
+  "fi-no-smoking":
+    "prefix": "fi-no-smoking",
+    "body": "<i class=\"fi-no-smoking\">$1</i>"
+  ,
+  "fi-page-add":
+    "prefix": "fi-page-add",
+    "body": "<i class=\"fi-page-add\">$1</i>"
+  ,
+  "fi-page-copy":
+    "prefix": "fi-page-copy",
+    "body": "<i class=\"fi-page-copy\">$1</i>"
+  ,
+  "fi-page-csv":
+    "prefix": "fi-page-csv",
+    "body": "<i class=\"fi-page-csv\">$1</i>"
+  ,
+  "fi-page-delete":
+    "prefix": "fi-page-delete",
+    "body": "<i class=\"fi-page-delete\">$1</i>"
+  ,
+  "fi-page-doc":
+    "prefix": "fi-page-doc",
+    "body": "<i class=\"fi-page-doc\">$1</i>"
+  ,
+  "fi-page-edit":
+    "prefix": "fi-page-edit",
+    "body": "<i class=\"fi-page-edit\">$1</i>"
+  ,
+  "fi-page-export-csv":
+    "prefix": "fi-page-export-csv",
+    "body": "<i class=\"fi-page-export-csv\">$1</i>"
+  ,
+  "fi-page-export-doc":
+    "prefix": "fi-page-export-doc",
+    "body": "<i class=\"fi-page-export-doc\">$1</i>"
+  ,
+  "fi-page-export-pdf":
+    "prefix": "fi-page-export-pdf",
+    "body": "<i class=\"fi-page-export-pdf\">$1</i>"
+  ,
+  "fi-page-export":
+    "prefix": "fi-page-export",
+    "body": "<i class=\"fi-page-export\">$1</i>"
+  ,
+  "fi-page-filled":
+    "prefix": "fi-page-filled",
+    "body": "<i class=\"fi-page-filled\">$1</i>"
+  ,
+  "fi-page-multiple":
+    "prefix": "fi-page-multiple",
+    "body": "<i class=\"fi-page-multiple\">$1</i>"
+  ,
+  "fi-page-pdf":
+    "prefix": "fi-page-pdf",
+    "body": "<i class=\"fi-page-pdf\">$1</i>"
+  ,
+  "fi-page-remove":
+    "prefix": "fi-page-remove",
+    "body": "<i class=\"fi-page-remove\">$1</i>"
+  ,
+  "fi-page-search":
+    "prefix": "fi-page-search",
+    "body": "<i class=\"fi-page-search\">$1</i>"
+  ,
+  "fi-page":
+    "prefix": "fi-page",
+    "body": "<i class=\"fi-page\">$1</i>"
+  ,
+  "fi-paint-bucket":
+    "prefix": "fi-paint-bucket",
+    "body": "<i class=\"fi-paint-bucket\">$1</i>"
+  ,
+  "fi-paperclip":
+    "prefix": "fi-paperclip",
+    "body": "<i class=\"fi-paperclip\">$1</i>"
+  ,
+  "fi-pause":
+    "prefix": "fi-pause",
+    "body": "<i class=\"fi-pause\">$1</i>"
+  ,
+  "fi-paw":
+    "prefix": "fi-paw",
+    "body": "<i class=\"fi-paw\">$1</i>"
+  ,
+  "fi-paypal":
+    "prefix": "fi-paypal",
+    "body": "<i class=\"fi-paypal\">$1</i>"
+  ,
+  "fi-pencil":
+    "prefix": "fi-pencil",
+    "body": "<i class=\"fi-pencil\">$1</i>"
+  ,
+  "fi-photo":
+    "prefix": "fi-photo",
+    "body": "<i class=\"fi-photo\">$1</i>"
+  ,
+  "fi-play-circle":
+    "prefix": "fi-play-circle",
+    "body": "<i class=\"fi-play-circle\">$1</i>"
+  ,
+  "fi-play-video":
+    "prefix": "fi-play-video",
+    "body": "<i class=\"fi-play-video\">$1</i>"
+  ,
+  "fi-play":
+    "prefix": "fi-play",
+    "body": "<i class=\"fi-play\">$1</i>"
+  ,
+  "fi-plus":
+    "prefix": "fi-plus",
+    "body": "<i class=\"fi-plus\">$1</i>"
+  ,
+  "fi-pound":
+    "prefix": "fi-pound",
+    "body": "<i class=\"fi-pound\">$1</i>"
+  ,
+  "fi-power":
+    "prefix": "fi-power",
+    "body": "<i class=\"fi-power\">$1</i>"
+  ,
+  "fi-previous":
+    "prefix": "fi-previous",
+    "body": "<i class=\"fi-previous\">$1</i>"
+  ,
+  "fi-price-tag":
+    "prefix": "fi-price-tag",
+    "body": "<i class=\"fi-price-tag\">$1</i>"
+  ,
+  "fi-pricetag-multiple":
+    "prefix": "fi-pricetag-multiple",
+    "body": "<i class=\"fi-pricetag-multiple\">$1</i>"
+  ,
+  "fi-print":
+    "prefix": "fi-print",
+    "body": "<i class=\"fi-print\">$1</i>"
+  ,
+  "fi-prohibited":
+    "prefix": "fi-prohibited",
+    "body": "<i class=\"fi-prohibited\">$1</i>"
+  ,
+  "fi-projection-screen":
+    "prefix": "fi-projection-screen",
+    "body": "<i class=\"fi-projection-screen\">$1</i>"
+  ,
+  "fi-puzzle":
+    "prefix": "fi-puzzle",
+    "body": "<i class=\"fi-puzzle\">$1</i>"
+  ,
+  "fi-quote":
+    "prefix": "fi-quote",
+    "body": "<i class=\"fi-quote\">$1</i>"
+  ,
+  "fi-record":
+    "prefix": "fi-record",
+    "body": "<i class=\"fi-record\">$1</i>"
+  ,
+  "fi-refresh":
+    "prefix": "fi-refresh",
+    "body": "<i class=\"fi-refresh\">$1</i>"
+  ,
+  "fi-results-demographics":
+    "prefix": "fi-results-demographics",
+    "body": "<i class=\"fi-results-demographics\">$1</i>"
+  ,
+  "fi-results":
+    "prefix": "fi-results",
+    "body": "<i class=\"fi-results\">$1</i>"
+  ,
+  "fi-rewind-ten":
+    "prefix": "fi-rewind-ten",
+    "body": "<i class=\"fi-rewind-ten\">$1</i>"
+  ,
+  "fi-rewind":
+    "prefix": "fi-rewind",
+    "body": "<i class=\"fi-rewind\">$1</i>"
+  ,
+  "fi-rss":
+    "prefix": "fi-rss",
+    "body": "<i class=\"fi-rss\">$1</i>"
+  ,
+  "fi-safety-cone":
+    "prefix": "fi-safety-cone",
+    "body": "<i class=\"fi-safety-cone\">$1</i>"
+  ,
+  "fi-save":
+    "prefix": "fi-save",
+    "body": "<i class=\"fi-save\">$1</i>"
+  ,
+  "fi-share":
+    "prefix": "fi-share",
+    "body": "<i class=\"fi-share\">$1</i>"
+  ,
+  "fi-sheriff-badge":
+    "prefix": "fi-sheriff-badge",
+    "body": "<i class=\"fi-sheriff-badge\">$1</i>"
+  ,
+  "fi-shield":
+    "prefix": "fi-shield",
+    "body": "<i class=\"fi-shield\">$1</i>"
+  ,
+  "fi-shopping-bag":
+    "prefix": "fi-shopping-bag",
+    "body": "<i class=\"fi-shopping-bag\">$1</i>"
+  ,
+  "fi-shopping-cart":
+    "prefix": "fi-shopping-cart",
+    "body": "<i class=\"fi-shopping-cart\">$1</i>"
+  ,
+  "fi-shuffle":
+    "prefix": "fi-shuffle",
+    "body": "<i class=\"fi-shuffle\">$1</i>"
+  ,
+  "fi-skull":
+    "prefix": "fi-skull",
+    "body": "<i class=\"fi-skull\">$1</i>"
+  ,
+  "fi-social-500px":
+    "prefix": "fi-social-500px",
+    "body": "<i class=\"fi-social-500px\">$1</i>"
+  ,
+  "fi-social-adobe":
+    "prefix": "fi-social-adobe",
+    "body": "<i class=\"fi-social-adobe\">$1</i>"
+  ,
+  "fi-social-amazon":
+    "prefix": "fi-social-amazon",
+    "body": "<i class=\"fi-social-amazon\">$1</i>"
+  ,
+  "fi-social-android":
+    "prefix": "fi-social-android",
+    "body": "<i class=\"fi-social-android\">$1</i>"
+  ,
+  "fi-social-apple":
+    "prefix": "fi-social-apple",
+    "body": "<i class=\"fi-social-apple\">$1</i>"
+  ,
+  "fi-social-behance":
+    "prefix": "fi-social-behance",
+    "body": "<i class=\"fi-social-behance\">$1</i>"
+  ,
+  "fi-social-bing":
+    "prefix": "fi-social-bing",
+    "body": "<i class=\"fi-social-bing\">$1</i>"
+  ,
+  "fi-social-blogger":
+    "prefix": "fi-social-blogger",
+    "body": "<i class=\"fi-social-blogger\">$1</i>"
+  ,
+  "fi-social-delicious":
+    "prefix": "fi-social-delicious",
+    "body": "<i class=\"fi-social-delicious\">$1</i>"
+  ,
+  "fi-social-designer-news":
+    "prefix": "fi-social-designer-news",
+    "body": "<i class=\"fi-social-designer-news\">$1</i>"
+  ,
+  "fi-social-deviant-art":
+    "prefix": "fi-social-deviant-art",
+    "body": "<i class=\"fi-social-deviant-art\">$1</i>"
+  ,
+  "fi-social-digg":
+    "prefix": "fi-social-digg",
+    "body": "<i class=\"fi-social-digg\">$1</i>"
+  ,
+  "fi-social-dribbble":
+    "prefix": "fi-social-dribbble",
+    "body": "<i class=\"fi-social-dribbble\">$1</i>"
+  ,
+  "fi-social-drive":
+    "prefix": "fi-social-drive",
+    "body": "<i class=\"fi-social-drive\">$1</i>"
+  ,
+  "fi-social-dropbox":
+    "prefix": "fi-social-dropbox",
+    "body": "<i class=\"fi-social-dropbox\">$1</i>"
+  ,
+  "fi-social-evernote":
+    "prefix": "fi-social-evernote",
+    "body": "<i class=\"fi-social-evernote\">$1</i>"
+  ,
+  "fi-social-facebook":
+    "prefix": "fi-social-facebook",
+    "body": "<i class=\"fi-social-facebook\">$1</i>"
+  ,
+  "fi-social-flickr":
+    "prefix": "fi-social-flickr",
+    "body": "<i class=\"fi-social-flickr\">$1</i>"
+  ,
+  "fi-social-forrst":
+    "prefix": "fi-social-forrst",
+    "body": "<i class=\"fi-social-forrst\">$1</i>"
+  ,
+  "fi-social-foursquare":
+    "prefix": "fi-social-foursquare",
+    "body": "<i class=\"fi-social-foursquare\">$1</i>"
+  ,
+  "fi-social-game-center":
+    "prefix": "fi-social-game-center",
+    "body": "<i class=\"fi-social-game-center\">$1</i>"
+  ,
+  "fi-social-github":
+    "prefix": "fi-social-github",
+    "body": "<i class=\"fi-social-github\">$1</i>"
+  ,
+  "fi-social-google-plus":
+    "prefix": "fi-social-google-plus",
+    "body": "<i class=\"fi-social-google-plus\">$1</i>"
+  ,
+  "fi-social-hacker-news":
+    "prefix": "fi-social-hacker-news",
+    "body": "<i class=\"fi-social-hacker-news\">$1</i>"
+  ,
+  "fi-social-hi5":
+    "prefix": "fi-social-hi5",
+    "body": "<i class=\"fi-social-hi5\">$1</i>"
+  ,
+  "fi-social-instagram":
+    "prefix": "fi-social-instagram",
+    "body": "<i class=\"fi-social-instagram\">$1</i>"
+  ,
+  "fi-social-joomla":
+    "prefix": "fi-social-joomla",
+    "body": "<i class=\"fi-social-joomla\">$1</i>"
+  ,
+  "fi-social-lastfm":
+    "prefix": "fi-social-lastfm",
+    "body": "<i class=\"fi-social-lastfm\">$1</i>"
+  ,
+  "fi-social-linkedin":
+    "prefix": "fi-social-linkedin",
+    "body": "<i class=\"fi-social-linkedin\">$1</i>"
+  ,
+  "fi-social-medium":
+    "prefix": "fi-social-medium",
+    "body": "<i class=\"fi-social-medium\">$1</i>"
+  ,
+  "fi-social-myspace":
+    "prefix": "fi-social-myspace",
+    "body": "<i class=\"fi-social-myspace\">$1</i>"
+  ,
+  "fi-social-orkut":
+    "prefix": "fi-social-orkut",
+    "body": "<i class=\"fi-social-orkut\">$1</i>"
+  ,
+  "fi-social-path":
+    "prefix": "fi-social-path",
+    "body": "<i class=\"fi-social-path\">$1</i>"
+  ,
+  "fi-social-picasa":
+    "prefix": "fi-social-picasa",
+    "body": "<i class=\"fi-social-picasa\">$1</i>"
+  ,
+  "fi-social-pinterest":
+    "prefix": "fi-social-pinterest",
+    "body": "<i class=\"fi-social-pinterest\">$1</i>"
+  ,
+  "fi-social-rdio":
+    "prefix": "fi-social-rdio",
+    "body": "<i class=\"fi-social-rdio\">$1</i>"
+  ,
+  "fi-social-reddit":
+    "prefix": "fi-social-reddit",
+    "body": "<i class=\"fi-social-reddit\">$1</i>"
+  ,
+  "fi-social-skillshare":
+    "prefix": "fi-social-skillshare",
+    "body": "<i class=\"fi-social-skillshare\">$1</i>"
+  ,
+  "fi-social-skype":
+    "prefix": "fi-social-skype",
+    "body": "<i class=\"fi-social-skype\">$1</i>"
+  ,
+  "fi-social-smashing-mag":
+    "prefix": "fi-social-smashing-mag",
+    "body": "<i class=\"fi-social-smashing-mag\">$1</i>"
+  ,
+  "fi-social-snapchat":
+    "prefix": "fi-social-snapchat",
+    "body": "<i class=\"fi-social-snapchat\">$1</i>"
+  ,
+  "fi-social-spotify":
+    "prefix": "fi-social-spotify",
+    "body": "<i class=\"fi-social-spotify\">$1</i>"
+  ,
+  "fi-social-squidoo":
+    "prefix": "fi-social-squidoo",
+    "body": "<i class=\"fi-social-squidoo\">$1</i>"
+  ,
+  "fi-social-stack-overflow":
+    "prefix": "fi-social-stack-overflow",
+    "body": "<i class=\"fi-social-stack-overflow\">$1</i>"
+  ,
+  "fi-social-steam":
+    "prefix": "fi-social-steam",
+    "body": "<i class=\"fi-social-steam\">$1</i>"
+  ,
+  "fi-social-stumbleupon":
+    "prefix": "fi-social-stumbleupon",
+    "body": "<i class=\"fi-social-stumbleupon\">$1</i>"
+  ,
+  "fi-social-treehouse":
+    "prefix": "fi-social-treehouse",
+    "body": "<i class=\"fi-social-treehouse\">$1</i>"
+  ,
+  "fi-social-tumblr":
+    "prefix": "fi-social-tumblr",
+    "body": "<i class=\"fi-social-tumblr\">$1</i>"
+  ,
+  "fi-social-twitter":
+    "prefix": "fi-social-twitter",
+    "body": "<i class=\"fi-social-twitter\">$1</i>"
+  ,
+  "fi-social-vimeo":
+    "prefix": "fi-social-vimeo",
+    "body": "<i class=\"fi-social-vimeo\">$1</i>"
+  ,
+  "fi-social-windows":
+    "prefix": "fi-social-windows",
+    "body": "<i class=\"fi-social-windows\">$1</i>"
+  ,
+  "fi-social-xbox":
+    "prefix": "fi-social-xbox",
+    "body": "<i class=\"fi-social-xbox\">$1</i>"
+  ,
+  "fi-social-yahoo":
+    "prefix": "fi-social-yahoo",
+    "body": "<i class=\"fi-social-yahoo\">$1</i>"
+  ,
+  "fi-social-yelp":
+    "prefix": "fi-social-yelp",
+    "body": "<i class=\"fi-social-yelp\">$1</i>"
+  ,
+  "fi-social-youtube":
+    "prefix": "fi-social-youtube",
+    "body": "<i class=\"fi-social-youtube\">$1</i>"
+  ,
+  "fi-social-zerply":
+    "prefix": "fi-social-zerply",
+    "body": "<i class=\"fi-social-zerply\">$1</i>"
+  ,
+  "fi-social-zurb":
+    "prefix": "fi-social-zurb",
+    "body": "<i class=\"fi-social-zurb\">$1</i>"
+  ,
+  "fi-sound":
+    "prefix": "fi-sound",
+    "body": "<i class=\"fi-sound\">$1</i>"
+  ,
+  "fi-star":
+    "prefix": "fi-star",
+    "body": "<i class=\"fi-star\">$1</i>"
+  ,
+  "fi-stop":
+    "prefix": "fi-stop",
+    "body": "<i class=\"fi-stop\">$1</i>"
+  ,
+  "fi-strikethrough":
+    "prefix": "fi-strikethrough",
+    "body": "<i class=\"fi-strikethrough\">$1</i>"
+  ,
+  "fi-subscript":
+    "prefix": "fi-subscript",
+    "body": "<i class=\"fi-subscript\">$1</i>"
+  ,
+  "fi-superscript":
+    "prefix": "fi-superscript",
+    "body": "<i class=\"fi-superscript\">$1</i>"
+  ,
+  "fi-tablet-landscape":
+    "prefix": "fi-tablet-landscape",
+    "body": "<i class=\"fi-tablet-landscape\">$1</i>"
+  ,
+  "fi-tablet-portrait":
+    "prefix": "fi-tablet-portrait",
+    "body": "<i class=\"fi-tablet-portrait\">$1</i>"
+  ,
+  "fi-target-two":
+    "prefix": "fi-target-two",
+    "body": "<i class=\"fi-target-two\">$1</i>"
+  ,
+  "fi-target":
+    "prefix": "fi-target",
+    "body": "<i class=\"fi-target\">$1</i>"
+  ,
+  "fi-telephone-accessible":
+    "prefix": "fi-telephone-accessible",
+    "body": "<i class=\"fi-telephone-accessible\">$1</i>"
+  ,
+  "fi-telephone":
+    "prefix": "fi-telephone",
+    "body": "<i class=\"fi-telephone\">$1</i>"
+  ,
+  "fi-text-color":
+    "prefix": "fi-text-color",
+    "body": "<i class=\"fi-text-color\">$1</i>"
+  ,
+  "fi-thumbnails":
+    "prefix": "fi-thumbnails",
+    "body": "<i class=\"fi-thumbnails\">$1</i>"
+  ,
+  "fi-ticket":
+    "prefix": "fi-ticket",
+    "body": "<i class=\"fi-ticket\">$1</i>"
+  ,
+  "fi-torso-business":
+    "prefix": "fi-torso-business",
+    "body": "<i class=\"fi-torso-business\">$1</i>"
+  ,
+  "fi-torso-female":
+    "prefix": "fi-torso-female",
+    "body": "<i class=\"fi-torso-female\">$1</i>"
+  ,
+  "fi-torso":
+    "prefix": "fi-torso",
+    "body": "<i class=\"fi-torso\">$1</i>"
+  ,
+  "fi-torsos-all-female":
+    "prefix": "fi-torsos-all-female",
+    "body": "<i class=\"fi-torsos-all-female\">$1</i>"
+  ,
+  "fi-torsos-all":
+    "prefix": "fi-torsos-all",
+    "body": "<i class=\"fi-torsos-all\">$1</i>"
+  ,
+  "fi-torsos-female-male":
+    "prefix": "fi-torsos-female-male",
+    "body": "<i class=\"fi-torsos-female-male\">$1</i>"
+  ,
+  "fi-torsos-male-female":
+    "prefix": "fi-torsos-male-female",
+    "body": "<i class=\"fi-torsos-male-female\">$1</i>"
+  ,
+  "fi-torsos":
+    "prefix": "fi-torsos",
+    "body": "<i class=\"fi-torsos\">$1</i>"
+  ,
+  "fi-trash":
+    "prefix": "fi-trash",
+    "body": "<i class=\"fi-trash\">$1</i>"
+  ,
+  "fi-trees":
+    "prefix": "fi-trees",
+    "body": "<i class=\"fi-trees\">$1</i>"
+  ,
+  "fi-trophy":
+    "prefix": "fi-trophy",
+    "body": "<i class=\"fi-trophy\">$1</i>"
+  ,
+  "fi-underline":
+    "prefix": "fi-underline",
+    "body": "<i class=\"fi-underline\">$1</i>"
+  ,
+  "fi-universal-access":
+    "prefix": "fi-universal-access",
+    "body": "<i class=\"fi-universal-access\">$1</i>"
+  ,
+  "fi-unlink":
+    "prefix": "fi-unlink",
+    "body": "<i class=\"fi-unlink\">$1</i>"
+  ,
+  "fi-unlock":
+    "prefix": "fi-unlock",
+    "body": "<i class=\"fi-unlock\">$1</i>"
+  ,
+  "fi-upload-cloud":
+    "prefix": "fi-upload-cloud",
+    "body": "<i class=\"fi-upload-cloud\">$1</i>"
+  ,
+  "fi-upload":
+    "prefix": "fi-upload",
+    "body": "<i class=\"fi-upload\">$1</i>"
+  ,
+  "fi-usb":
+    "prefix": "fi-usb",
+    "body": "<i class=\"fi-usb\">$1</i>"
+  ,
+  "fi-video":
+    "prefix": "fi-video",
+    "body": "<i class=\"fi-video\">$1</i>"
+  ,
+  "fi-volume-none":
+    "prefix": "fi-volume-none",
+    "body": "<i class=\"fi-volume-none\">$1</i>"
+  ,
+  "fi-volume-strike":
+    "prefix": "fi-volume-strike",
+    "body": "<i class=\"fi-volume-strike\">$1</i>"
+  ,
+  "fi-volume":
+    "prefix": "fi-volume",
+    "body": "<i class=\"fi-volume\">$1</i>"
+  ,
+  "fi-web":
+    "prefix": "fi-web",
+    "body": "<i class=\"fi-web\">$1</i>"
+  ,
+  "fi-wheelchair":
+    "prefix": "fi-wheelchair",
+    "body": "<i class=\"fi-wheelchair\">$1</i>"
+  ,
+  "fi-widget":
+    "prefix": "fi-widget",
+    "body": "<i class=\"fi-widget\">$1</i>"
+  ,
+  "fi-wrench":
+    "prefix": "fi-wrench",
+    "body": "<i class=\"fi-wrench\">$1</i>"
+  ,
+  "fi-x-circle":
+    "prefix": "fi-x-circle",
+    "body": "<i class=\"fi-x-circle\">$1</i>"
+  ,
+  "fi-x":
+    "prefix": "fi-x",
+    "body": "<i class=\"fi-x\">$1</i>"
+  ,
+  "fi-yen":
+    "prefix": "fi-yen",
+    "body": "<i class=\"fi-yen\">$1</i>"
+  ,
+  "fi-zoom-in":
+    "prefix": "fi-zoom-in",
+    "body": "<i class=\"fi-zoom-in\">$1</i>"
+  ,
+  "fi-zoom-out":
+    "prefix": "fi-zoom-out",
+    "body": "<i class=\"fi-zoom-out\">$1</i>"

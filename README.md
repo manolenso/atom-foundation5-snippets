@@ -17,10 +17,12 @@ Install the module with: `apm install foundation5-snippets`
   <dd>zf+dro+but = **zfdrobut**</dd>
 </dl>
 
-
 Components | Trigger | Javascript
  --------------- | ----------- | -----------
+[Icon Font 3](http://zurb.com/playground/foundation-icon-fonts-3) |icon-font name + <kbd>tab</kbd>|
+||
  **Structure** | |
+Row       | zfrow + <kbd>tab</kbd> |
 Full Grid | zffulgri + <kbd>tab</kbd> |
 Half Grid | zfhalgri + <kbd>tab</kbd> |
 Quarter Grid | zfquagri + <kbd>tab</kbd> |
@@ -67,6 +69,17 @@ Javascript complementary snippets
 ## Release History
 Atom snippets adaptation from:
 [Foundation 5 Sublime Tex Snippets](https://github.com/zurb/foundation-5-sublime-snippets)
+
+## Contributing
+
+1. Fork it.
+2. Create your feature branch (`git checkout -b my-new-feature`).
+3. Test your changes to the best of your ability.
+4. Update the documentation to reflect your changes if they add or changes current functionality.
+5. Commit your changes (`git commit -am 'Added some feature'`).
+6. Push to the branch (`git push origin my-new-feature`).
+7. Create a new pull request.
+
 
 ## License
 [MIT Licence](LICENCE.md)©Laurent Remy
