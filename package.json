@@ -1,7 +1,7 @@
 {
   "name": "foundation5-snippets",
   "main": "./lib/foundation5-snippets",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Atom snippets for Foundation 5",
   "license": "MIT",
   "private": true,
