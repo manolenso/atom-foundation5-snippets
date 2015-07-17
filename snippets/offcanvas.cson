@@ -2,7 +2,7 @@
   "ZURB Foundation 5 off Canvas":
     prefix: "zfoff"
     body:"""
-    <div class="off-canvas-wrap">
+    <div class="off-canvas-wrap" data-offcanvas>
       <div class="inner-wrap">
         <nav class="tab-bar">
 
